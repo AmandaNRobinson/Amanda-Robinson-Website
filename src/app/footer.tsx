@@ -48,7 +48,7 @@ export default function Footer() {
             <TintedVector src="/masks/cow-blobs.svg" color='#F9F3EB' repeat="x" maskSize="600px 600px" className={styles.footerBackground}/>
             <div className={styles.centerSection}>
                 <a href='mailto:amanda@danivan.com'>amanda@danivan.com</a>
-                <p className={styles.externalLinks}><a href='https://github.com/17AlbinoZebras' target="_blank" rel="noopener noreferrer">GitHub</a> | <a href='https://www.linkedin.com/in/amanda-n-robinson/' target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
+                <p className={styles.externalLinks}><a href='https://github.com/AmandaNRobinson' target="_blank" rel="noopener noreferrer">GitHub</a> | <a href='https://www.linkedin.com/in/amanda-n-robinson/' target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
             </div>
             {isMobile ? (
                 // One flat list in a specific requested order (Home,
