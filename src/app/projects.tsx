@@ -8,9 +8,9 @@ import { TintedVector } from './mask_functions'
 // (only while their panel is open, see guardTitleLink below) once these
 // are set.
 const projectGithubUrls: Record<string, string> = {
-    intervle: 'https://github.com/17AlbinoZebras/Intervle-wordle-game',
-    shopcomp: 'https://github.com/17AlbinoZebras/ShopComp',
-    heatmap: 'https://github.com/17AlbinoZebras/outreach-heatmap',
+    intervle: 'https://github.com/AmandaNRobinson/Intervle-wordle-game',
+    shopcomp: 'https://github.com/AmandaNRobinson/ShopComp',
+    heatmap: 'https://github.com/AmandaNRobinson/outreach-heatmap',
 }
 
 // Matches the site's one existing responsive breakpoint (the plain CSS
