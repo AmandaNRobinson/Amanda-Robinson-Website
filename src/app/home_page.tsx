@@ -129,7 +129,7 @@ function OverviewSection() {
                         <h2 className={styles.sectionTitle}>Technology Stacks</h2>
                         <div className={styles.bodyText}>
                             <b>Languages: </b>
-                            <p>Java, Python, SQL, TypeScript, HTML/CSS, C++, C</p>
+                            <p>Java, Python, TypeScript, SQL, HTML/CSS, C++, C</p>
                             <b>Frameworks/Libraries: </b>
                             <p>React.js, Next.js, Node.js/Express, PyTorch, PySide6</p>
                             <b>Tools: </b>
@@ -142,7 +142,7 @@ function OverviewSection() {
                         <h2 className={styles.sectionTitle}>Education</h2>
                         <div className={styles.bodyText}>
                             <b>Worcester Polytechnic Institute</b>
-                            <p>Expected Graduation: May 2028</p>
+                            <p>Expected Graduation: December 2027</p>
                             <p>B.S. Computer Science</p>
                             <p>Minor in Economics</p>
                         </div>

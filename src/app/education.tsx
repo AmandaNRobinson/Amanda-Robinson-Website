@@ -317,7 +317,7 @@ export default function Education() {
                 <div className={styles.overview}>
                     <div className={styles.column}>
                         <b style={{textAlign: 'center'}}>Worcester Polytechnic Institute</b>
-                        <p style={{textAlign: 'center'}}>Expected Graduation: December 2028</p>
+                        <p style={{textAlign: 'center'}}>Expected Graduation: December 2027</p>
                     </div>
                     <div className={styles.column}>
                         <p>B.S. Computer Science</p>
